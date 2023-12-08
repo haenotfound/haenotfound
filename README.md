@@ -1,6 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=f2a900&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=45&duration=3500&pause=3&color=f2a900&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Haeun+GitHub!👋)](https://git.io/typing-svg)
 
+<p>
+    Hello! I am a novice web publisher, [Name].
+    <ul>
+        <li>I have an interest in web publishing and have laid the groundwork.</li>
+        <li>I enjoy taking on new challenges, experiencing various projects, and creating a better web environment.</li>
+        <li>I can code in accordance with principles such as web standards and web accessibility.</li>
+        <li>I can construct web, mobile, and responsive pages.</li>
+        <li>I have an understanding of and skills in UX and UI design.</li>
+    </ul>
+
+I am ready to communicate and collaborate at any time. Thank you! 🚀
+</p>
+
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs2haeun&count_bg=%23F9AB00&title_bg=%23555555&icon=&icon_color=%23FFB6F3&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 -------
 
