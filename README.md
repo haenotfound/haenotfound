@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=45&duration=3500&pause=3&color=f2a900&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Haeun+GitHub!👋)](https://git.io/typing-svg)
 
 <p>
-    Hello! I am a novice web publisher, [Name].
+    Hello! I am a novice web publisher.🌱
     <ul>
         <li>I have an interest in web publishing and have laid the groundwork.</li>
         <li>I enjoy taking on new challenges, experiencing various projects, and creating a better web environment.</li>
