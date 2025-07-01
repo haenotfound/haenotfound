@@ -3,7 +3,6 @@
 
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fs2haeun&count_bg=%23F9AB00&title_bg=%23555555&icon=&icon_color=%23FFB6F3&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 -------
 
 ## 📞 Contact 📞
