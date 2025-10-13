@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Frontend+in+progress+🚀&fontSize=35&fontColor=ffffff&animation=blink&reversal=true)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:89f7fe,100:66a6ff&height=180&section=header&text=Frontend+in+progress+🚀&fontSize=40&fontColor=ffffff&animation=blink&reversal=true)
 
 -------
 
