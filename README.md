@@ -1,7 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=f2a900&text=&animation=twinkling&height=80)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=45&duration=3500&pause=3&color=f2a900&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Haeun+GitHub!👋)](https://git.io/typing-svg)
 
-
+![header](https://capsule-render.vercel.app/api?type=Blur&color=auto&height=300&section=header&text=Front-end+developer+in+progress+🚀%20render&fontSize=20&fontColor=777777)
 
 -------
 
