@@ -20,20 +20,24 @@
         <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"> 
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
         <img src="https://img.shields.io/badge/JQuery-0769ad?style=flat-square&logo=jquery&logoColor=white">
-    </div>
+        <img src="https://img.shields.io/badge/php-777BB4?style=flat-square&logo=adobeindesign&logoColor=white">
+    </div><br>
     <div>
         <img src="https://img.shields.io/badge/git-f05032?style=flat-square&logo=git&logoColor=white"> 
         <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"> 
         <img src="https://img.shields.io/badge/VisualStudioCode-512bd4?style=flat-square&logo=visualstudiocode&logoColor=white"> 
-    </div>
+        <img src="https://img.shields.io/badge/githubpages-222222?style=flat-square&logo=visualstudiocode&logoColor=white"> 
+    </div><br>
     <div>
         <img src="https://img.shields.io/badge/Adobe Photoshop-31a8ff?style=flat-square&logo=adobephotoshop&logoColor=white">
         <img src="https://img.shields.io/badge/Adobe Illustrator-ff9a00?style=flat-square&logo=adobeillustrator&logoColor=white">
         <img src="https://img.shields.io/badge/Adobe InDesign-ff3366?style=flat-square&logo=adobeindesign&logoColor=white">
+        <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=adobeindesign&logoColor=white">
     </div>
     <br>
 </div>
- 
+
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=haenotfound&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?username=s2haeun&include_all_commits=true&show_icons=true&theme=gruvbox)](https://github.com/bi-sz/github-readme-stats)-->
 
